@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<div align="center>
+<div align="center">
   <img src="https://raw.githubusercontent.com/callbak/callbak/output/snake.svg" alt="Snake animation" />
 </div>
 
