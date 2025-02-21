@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callbak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
@@ -36,11 +30,6 @@
   <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="47" height="35" alt="tryhackme logo"  />
-</div>
 
 ###
 
