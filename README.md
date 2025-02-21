@@ -54,6 +54,4 @@
 
 <img src="https://raw.githubusercontent.com/callbak/callbak/output/snake.svg" alt="Snake animation" />
 
-
-
 ###
