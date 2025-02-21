@@ -35,10 +35,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callbak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callbak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=false&order=2&custom_title=My%20Logic%20Tongues" height="150" alt="languages graph"  />
 </div>
-
-###
 
 ###
 
