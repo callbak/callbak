@@ -1,7 +1,3 @@
-<h2 align="center">Cybersecurity student<br>AI , DATA Enthusiast</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callbak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -43,9 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="47" height="35" alt="tryhackme logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="47" height="35" alt="slack logo"  />
 </div>
 
 ###
