@@ -31,19 +31,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callbak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=default&hide_border=false&order=2&custom_title=My%20Logic%20Tongues" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/callbak/callbak/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
