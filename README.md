@@ -27,7 +27,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
 </div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/callbak/count.svg?"  />
-</div>
